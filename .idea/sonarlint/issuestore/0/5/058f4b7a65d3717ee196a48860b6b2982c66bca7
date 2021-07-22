@@ -1,0 +1,19 @@
+
+j
+java:S1192"HDefine a constant instead of duplicating this literal "res is " 4 times.(ñù¡Ôşÿÿÿÿ8ñë©¨/
+p
+java:S1192"NDefine a constant instead of duplicating this literal "Exception is " 3 times.(Ö™Úµùÿÿÿÿ8òë©¨/
+s
+java:S1192"VDefine a constant instead of duplicating this literal " Hi CompletableFuture" 3 times.(Å“ÿõ8òë©¨/
+|
+java:S1192'"ZDefine a constant instead of duplicating this literal "Exception after world is " 3 times.(³¤¶¾ùÿÿÿÿ8òë©¨/
+^
+java:S2166
+"CRename this class to remove "Exception" or correct its inheritance.(ÒÅŞİùÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘«º±øÿÿÿÿ
+c	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®˜…Ê
+E
+java:S1611:"/Remove the parentheses around the "e" parameter(…éëà
+L
+java:S1611?"/Remove the parentheses around the "e" parameter(Ğ“…Ì8ÂÄô¨¨/
+j	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·†Ú´8üë©¨/

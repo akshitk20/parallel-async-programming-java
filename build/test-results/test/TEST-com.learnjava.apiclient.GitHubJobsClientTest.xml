@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.learnjava.apiclient.GitHubJobsClientTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-09T05:27:11" hostname="INPNL000796" time="3.669">
+  <properties/>
+  <testcase name="test3()" classname="com.learnjava.apiclient.GitHubJobsClientTest" time="3.669"/>
+  <system-out><![CDATA[[ForkJoinPool.commonPool-worker-7] - uri : /positions.json?description=Java&page=3
+[ForkJoinPool.commonPool-worker-3] - uri : /positions.json?description=Java&page=1
+[ForkJoinPool.commonPool-worker-5] - uri : /positions.json?description=Java&page=2
+[Test worker] - Total Time Taken : 3635
+[Test worker] - githubpostions []
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

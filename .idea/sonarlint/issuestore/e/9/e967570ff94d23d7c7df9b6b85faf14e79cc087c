@@ -1,0 +1,28 @@
+
+o
+java:S1192("TDefine a constant instead of duplicating this literal "Total Time Taken : " 3 times.(éÔ‘Êùÿÿÿÿ
+E
+java:S6212#"/Declare this local variable with "var" instead.(ÏÏ¿á
+h	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïš›‡ÿÿÿÿÿ
+E
+java:S6212C"/Declare this local variable with "var" instead.(ÏÏ¿á
+E
+java:S1611Y"/Remove the parentheses around the "e" parameter(Ğ“…Ì
+E
+java:S6212a"/Declare this local variable with "var" instead.(ÏÏ¿á
+G
+java:S1602c",Remove useless curly braces around statement(ÊË£¿üÿÿÿÿ
+E
+java:S6212q"/Declare this local variable with "var" instead.(²¿ÿ¨
+E
+java:S1611|"/Remove the parentheses around the "e" parameter(Ğ“…Ì
+F
+java:S6212‘"/Declare this local variable with "var" instead.(İıà
+K
+java:S6212’"/Declare this local variable with "var" instead.(‡ƒÿÿÿÿÿ
+F
+java:S6212“"/Declare this local variable with "var" instead.(¬È•¡
+F
+java:S6212”"/Declare this local variable with "var" instead.(¸Ïƒş
+F
+java:S6212•"/Declare this local variable with "var" instead.(¨ŞÑµ
